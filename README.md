@@ -1,5 +1,5 @@
 # StructGAN-TXT (TxtImg2Img)
-[“Fused-Text-Image-to-Image” Generative Adversarial Networks-based Intelligent Generative Structural Design Method for Shear-wall Building](http://dx.doi.org/10.1016/j.eswa.2022.118530).
+[Intelligent Generative Structural Design Method for Shear Wall Building Based on “Fused-Text-Image-to-Image” Generative Adversarial Networks](http://dx.doi.org/10.1016/j.eswa.2022.118530).
 
 The codes of this study are not all public, any other codes are available by request to the author (liaowj17@tsinghua.org.cn), or refer to codes of [StructGAN](https://github.com/wenjie-liao/StructGAN_v1) .
 
